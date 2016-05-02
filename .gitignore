@@ -14,7 +14,6 @@ esfbdata.1
 esfbdata.bash-completion
 esfbdata.fish
 esfbdata/extractor/lazy_extractors.py
-esfbdata
 esfbdata.exe
 esfbdata.tar.gz
 .coverage
