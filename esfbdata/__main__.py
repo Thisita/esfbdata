@@ -40,6 +40,8 @@ def _main(argv=None):
     # Build the kwargs from arguments to just pass to the ingesters
     logger.debug('Generating kwargs from user arguments')
     excluded_args = [
+        'version',
+        'log_format',
         'debug',
         'verbose',
         'ingest',
